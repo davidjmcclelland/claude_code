@@ -1,5 +1,7 @@
 # claude_code
 
+Course: https://www.linkedin.com/learning/claude-code-101-from-prompt-to-product
+
 Capturing progress setting up Ai environment.
 
 ## Table of Contents
