@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import openpyxl; print\\('openpyxl ok'\\)\")",
+      "Bash(python3 -c \"import pandas; print\\('pandas ok'\\)\")",
+      "Bash(pip install *)",
+      "Bash(python3 -c \"import openpyxl; print\\('ok'\\)\")",
+      "Bash(python3 -m pip --version)",
+      "Bash(python3 /tmp/claude-1000/-mnt-c-workspaces-claude-code/9f22e0da-bf41-4431-b68c-53a3256709fa/scratchpad/xlsx_peek.py finance/*.xlsx)",
+      "Bash(python3 *)",
+      "WebSearch",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" --max-time 5 https://fonts.gstatic.com)",
+      "Read(//tmp/**)",
+      "Bash(curl -s -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120 Safari/537.36' 'https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap' -o plex.css)",
+      "Bash(awk '/font-family: .IBM Plex Sans./{fam=1} fam && /font-weight/{w=$0} fam && /unicode-range: U\\\\+0000-00FF/{print w; fam=0}' /tmp/plex.css)",
+      "Bash(curl -s -A \"Mozilla/5.0\" -o plexsans.woff2 \"https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxeKYY.woff2\")",
+      "Bash(mkdir -p \"/mnt/c/workspaces/claude_code/finance/red30_audit\")",
+      "Bash(cp \"/tmp/claude-1000/-mnt-c-workspaces-claude-code/9f22e0da-bf41-4431-b68c-53a3256709fa/scratchpad/red30-audit.html\" \"/mnt/c/workspaces/claude_code/finance/red30_audit/red30-audit.html\")",
+      "Bash(git push *)",
+      "Bash(gh auth *)"
+    ]
+  }
+}
