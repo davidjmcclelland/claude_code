@@ -17,7 +17,16 @@
       "Bash(mkdir -p \"/mnt/c/workspaces/claude_code/finance/red30_audit\")",
       "Bash(cp \"/tmp/claude-1000/-mnt-c-workspaces-claude-code/9f22e0da-bf41-4431-b68c-53a3256709fa/scratchpad/red30-audit.html\" \"/mnt/c/workspaces/claude_code/finance/red30_audit/red30-audit.html\")",
       "Bash(git push *)",
-      "Bash(gh auth *)"
+      "Bash(gh auth *)",
+      "Bash(apt list *)",
+      "Bash(rm -f finance/charts/revenue-trend-monthly.png)",
+      "Bash(cp .chart_build_tmp/chart1_revenue_quarterly_bar.png finance/charts/revenue-trend-quarterly.png)",
+      "Bash(cp .chart_build_tmp/chart3_revenue_by_region_stacked.png finance/charts/revenue-trend-by-region.png)",
+      "Bash(rm -rf .chart_build_tmp)",
+      "Bash(git add *)",
+      "Read(//mnt/c/Program Files/**)",
+      "Read(//mnt/c/Program Files \\\\\\(x86\\\\\\)/**)",
+      "Read(//mnt/c/**)"
     ]
   }
 }
