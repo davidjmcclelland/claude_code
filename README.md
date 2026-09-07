@@ -24,8 +24,9 @@ Capturing progress setting up Ai environment.
 2. Install dependencies:
 
    ```bash
-   npm install
+   curl -fsSL https://claude.ai/install.sh | bash
    ```
+This will download the claude installation script and execute in in bash once downloaded.
 
 ## Usage
 
