@@ -1,0 +1,35 @@
+{
+  "_comment": "Example style guide for the 'Compliance With Style Guide' rubric category. No real Red30 Tech style guide exists in this repo, so these rules are a reasonable placeholder set of common business-writing conventions — edit freely to match your organization's actual guide. banned_terms maps a disallowed word/phrase to its preferred replacement.",
+
+  "banned_terms": {
+    "utilize": "use",
+    "utilization": "use",
+    "leverage": "use (when used as a verb, e.g. \"leverage our platform\")",
+    "synergy": "cooperation",
+    "synergies": "shared benefits",
+    "in order to": "to",
+    "click here": "a descriptive link label (e.g. \"see the pricing guide\")",
+    "very unique": "unique",
+    "going forward": "(often unnecessary — consider cutting)",
+    "at the end of the day": "ultimately",
+    "circle back": "follow up",
+    "touch base": "check in",
+    "low-hanging fruit": "the easiest first step",
+    "guys": "team / everyone",
+    "game changer": "a specific, concrete benefit",
+    "game-changing": "a specific, concrete claim",
+    "best-in-class": "a specific, verifiable claim",
+    "world-class": "a specific, verifiable claim"
+  },
+
+  "heading_style": {
+    "no_terminal_period": true,
+    "prefer_title_or_sentence_case": true
+  },
+
+  "mechanical_rules": {
+    "no_double_spaces": true,
+    "no_mixed_quote_styles": true,
+    "max_consecutive_exclamations": 1
+  }
+}

@@ -1,0 +1,822 @@
+{
+  "generated_at": "2026-09-06T21:04:02",
+  "rubric_title": "Document Compliance Rubric",
+  "rubric_bands": [
+    {
+      "min": 21,
+      "max": 25,
+      "level": "Excellent"
+    },
+    {
+      "min": 16,
+      "max": 20,
+      "level": "Good \u2013 minor improvements needed"
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "level": "Moderate issues"
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "level": "Significant issues"
+    },
+    {
+      "min": 0,
+      "max": 5,
+      "level": "Major compliance problems"
+    }
+  ],
+  "documents": [
+    {
+      "name": "Brand Content.docx",
+      "path": "/mnt/c/workspaces/claude_code/finance/document_review/../../marketing/Brand Content.docx",
+      "format": "docx",
+      "word_count": 7548,
+      "is_freeform_layout": false,
+      "total_score": 15,
+      "max_total_score": 25,
+      "compliance_level": "Moderate issues",
+      "categories": [
+        {
+          "category": "Tone and Professional Voice",
+          "score": 3,
+          "max_score": 5,
+          "rationale": "9 promotional/slang term(s), 2 contraction(s), 86 ALL-CAPS word(s), 25 exclamation mark(s) across 7415 words (density 1.6 per 100 words).",
+          "findings": [
+            {
+              "location": "",
+              "snippet": "Each office provided amazingly creative ideas, but in the end it was the office out of Nairobi.",
+              "issue": "Informal/promotional language: amazing.",
+              "suggestion": "Replace with a concrete, specific claim (what exactly makes it 'amazing'?)."
+            },
+            {
+              "location": "",
+              "snippet": "We\u2019ll provide training to your employees to empower them in defending your company against social engineering\u2026",
+              "issue": "Informal/promotional language: hacks.",
+              "suggestion": "Replace with a concrete, specific claim (what exactly makes it 'hacks'?)."
+            },
+            {
+              "location": "",
+              "snippet": "Red30 Cares began in 2010 when Oliver McNeil decided it was time to celebrate the amazing achievements of Red\u2026",
+              "issue": "Informal/promotional language: amazing.",
+              "suggestion": "Replace with a concrete, specific claim (what exactly makes it 'amazing'?)."
+            },
+            {
+              "location": "",
+              "snippet": "Jayden is an amazing program manager because she sees little details and handles them, enabling us to keep ou\u2026",
+              "issue": "Informal/promotional language: amazing.",
+              "suggestion": "Replace with a concrete, specific claim (what exactly makes it 'amazing'?)."
+            },
+            {
+              "location": "",
+              "snippet": "!Comparte el amor!",
+              "issue": "Multiple exclamation points in one sentence.",
+              "suggestion": "Use at most one exclamation point, or none, for a professional tone."
+            },
+            {
+              "location": "",
+              "snippet": "Trina is so amazing!",
+              "issue": "Informal/promotional language: amazing.",
+              "suggestion": "Replace with a concrete, specific claim (what exactly makes it 'amazing'?)."
+            },
+            {
+              "location": "",
+              "snippet": "We had an amazing day and this sunset is the cherry on top!",
+              "issue": "Informal/promotional language: amazing.",
+              "suggestion": "Replace with a concrete, specific claim (what exactly makes it 'amazing'?)."
+            },
+            {
+              "location": "",
+              "snippet": "We got in some amazing jumps this weekend.",
+              "issue": "Informal/promotional language: amazing.",
+              "suggestion": "Replace with a concrete, specific claim (what exactly makes it 'amazing'?)."
+            },
+            {
+              "location": "",
+              "snippet": "This time at the lake was epic.",
+              "issue": "Informal/promotional language: epic.",
+              "suggestion": "Replace with a concrete, specific claim (what exactly makes it 'epic'?)."
+            },
+            {
+              "location": "",
+              "snippet": "\u201cThe app is really amazing,\" said Gobnet.",
+              "issue": "Informal/promotional language: amazing.",
+              "suggestion": "Replace with a concrete, specific claim (what exactly makes it 'amazing'?)."
+            }
+          ]
+        },
+        {
+          "category": "Clarity and Readability",
+          "score": 5,
+          "max_score": 5,
+          "rationale": "Flesch Reading Ease 62 (higher = easier); 29/794 sentences over 28 words; 26/794 passive-voice (3%).",
+          "findings": [
+            {
+              "location": "",
+              "snippet": "When using the copy, photos, graphics, or any other aspect of this fictitious brand, please include the follo\u2026",
+              "issue": "Long sentence (32 words).",
+              "suggestion": "Split into two sentences (currently 32 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Information provided about the products or services is also fictitious and should not be construed as represe\u2026",
+              "issue": "Long sentence (32 words).",
+              "suggestion": "Split into two sentences (currently 32 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Our mission is to provide technology and business-driven solutions that work seamlessly with your company, al\u2026",
+              "issue": "Long sentence (32 words).",
+              "suggestion": "Split into two sentences (currently 32 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Imagine all attachments in your emails and documents at your desk being scanned, tagged, and filed intuitivel\u2026",
+              "issue": "Long sentence (33 words).",
+              "suggestion": "Split into two sentences (currently 33 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "To be able to have global reach, you need a comprehensive supplier of server networks that will protect your\u2026",
+              "issue": "Long sentence (30 words).",
+              "suggestion": "Split into two sentences (currently 30 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Imagine your office and all the things you need to do your work: a computer, connection to the internet, a fi\u2026",
+              "issue": "Long sentence (48 words).",
+              "suggestion": "Split into two sentences (currently 48 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Now think of the globe as your office with all of these components stretched across continents in homes, offi\u2026",
+              "issue": "Long sentence (31 words).",
+              "suggestion": "Split into two sentences (currently 31 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "We make it possible for you to connect across the globe as easily as if you were talking to your coworker at\u2026",
+              "issue": "Long sentence (34 words).",
+              "suggestion": "Split into two sentences (currently 34 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "This document was designed to allow instructors, producers, and post-production easy access to content for pr\u2026",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "Links to download files from Asset Bank are provided for all visual references.",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "Red30 Tech was founded in 1995 by Oliver McNeil, a mechanical engineer with a passion for building gadgets an\u2026",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "Oliver teamed up with other like-minded makers, developers, and engineers, and Red30 Tech was born.",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "In 2016, the give-a-thon program through Red30 Cares was instituted.",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "Half a million dollars was raised in three months thanks to the commitment of employees, customers, and commu\u2026",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "The staff was given the challenge to make the most creative thank you gift we could give our customers.",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "Today, Red30 Tech is proud to support a staff of 5,000 employees across the globe who are devoted to creating\u2026",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            }
+          ]
+        },
+        {
+          "category": "Formatting and Structure",
+          "score": 1,
+          "max_score": 5,
+          "rationale": "39 heading(s), 36 list item(s) across 560 paragraph(s); 0 very long paragraph(s); 9 structural issue(s) flagged.",
+          "findings": [
+            {
+              "location": "heading 3",
+              "snippet": "About the Brand",
+              "issue": "Heading level jumps from H1 to H3.",
+              "suggestion": "Insert an intermediate H2 heading, or promote this to H2."
+            },
+            {
+              "location": "heading 6",
+              "snippet": "Vision",
+              "issue": "Heading level jumps from H1 to H3.",
+              "suggestion": "Insert an intermediate H2 heading, or promote this to H2."
+            },
+            {
+              "location": "heading 12",
+              "snippet": "voice",
+              "issue": "Heading level jumps from H1 to H3.",
+              "suggestion": "Insert an intermediate H2 heading, or promote this to H2."
+            },
+            {
+              "location": "heading 15",
+              "snippet": "products",
+              "issue": "Heading level jumps from H1 to H3.",
+              "suggestion": "Insert an intermediate H2 heading, or promote this to H2."
+            },
+            {
+              "location": "heading 19",
+              "snippet": "Red30 Gives",
+              "issue": "Heading level jumps from H1 to H3.",
+              "suggestion": "Insert an intermediate H2 heading, or promote this to H2."
+            },
+            {
+              "location": "heading 26",
+              "snippet": "Community building one application at a time",
+              "issue": "Heading level jumps from H1 to H3.",
+              "suggestion": "Insert an intermediate H2 heading, or promote this to H2."
+            },
+            {
+              "location": "heading 30",
+              "snippet": "Call to Action \u2013 Safer Internet Day (Feb 6)",
+              "issue": "Heading level jumps from H1 to H3.",
+              "suggestion": "Insert an intermediate H2 heading, or promote this to H2."
+            },
+            {
+              "location": "heading 36",
+              "snippet": "Red30 Tech Makers Conference",
+              "issue": "Heading level jumps from H1 to H3.",
+              "suggestion": "Insert an intermediate H2 heading, or promote this to H2."
+            },
+            {
+              "location": "heading 38",
+              "snippet": "Company email signature",
+              "issue": "Heading level jumps from H1 to H3.",
+              "suggestion": "Insert an intermediate H2 heading, or promote this to H2."
+            }
+          ]
+        },
+        {
+          "category": "Data and Evidence Usage",
+          "score": 1,
+          "max_score": 5,
+          "rationale": "2/209 numeric claims have nearby context (1%).",
+          "findings": [
+            {
+              "location": "",
+              "snippet": "Posts23 Call to Action \u2013 Safer Internet Day (Feb 6)23 Call to Action \u2013 National day of unplugging (",
+              "issue": "Figure '6' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "sts23 Call to Action \u2013 Safer Internet Day (Feb 6)23 Call to Action \u2013 National day of unplugging (Mar",
+              "issue": "Figure '23' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "Call to Action \u2013 National day of unplugging (Mar 1)23 Call to Action \u2013 National computer security d",
+              "issue": "Figure '1' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "all to Action \u2013 National day of unplugging (Mar 1)23 Call to Action \u2013 National computer security day",
+              "issue": "Figure '23' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "l to Action \u2013 National computer security day (nov 30)24 Posing a question post24 Instagram and Pinte",
+              "issue": "Figure '30' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "o Action \u2013 National computer security day (nov 30)24 Posing a question post24 Instagram and Pinteres",
+              "issue": "Figure '24' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "About About the Brand Red30 Tech was founded in 1995 by Oliver McNeil, a mechanical engineer with a pa",
+              "issue": "Figure '1995' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "ers, and engineers, and Red30 Tech was born. In 2010, Red30 Tech celebrated its 100th data center. Thro",
+              "issue": "Figure '2010,' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "ebrations and surprises focused around the number 100 for employees and customers. Can you imagine what",
+              "issue": "Figure '100' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "customers. Can you imagine what it\u2019s like to find 100 vases of flowers in your office? Laura Davis, our",
+              "issue": "Figure '100' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            }
+          ]
+        },
+        {
+          "category": "Compliance With Style Guide",
+          "score": 5,
+          "max_score": 5,
+          "rationale": "0 banned-term hit(s), 12 mechanical style issue(s) across 7548 words (density 0.2 per 100 words).",
+          "findings": [
+            {
+              "location": "whole document",
+              "snippet": "",
+              "issue": "11 instance(s) of double spaces.",
+              "suggestion": "Run a find-and-replace for double spaces."
+            },
+            {
+              "location": "whole document",
+              "snippet": "",
+              "issue": "Mixes straight and curly quotation marks.",
+              "suggestion": "Standardize on one quote style throughout (curly is typical for finished copy)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Community Member Personas.pdf",
+      "path": "/mnt/c/workspaces/claude_code/finance/document_review/../../marketing/Community Member Personas.pdf",
+      "format": "pdf",
+      "word_count": 150,
+      "is_freeform_layout": true,
+      "total_score": 21,
+      "max_total_score": 25,
+      "compliance_level": "Excellent",
+      "categories": [
+        {
+          "category": "Tone and Professional Voice",
+          "score": 4,
+          "max_score": 5,
+          "rationale": "0 promotional/slang term(s), 0 contraction(s), 1 ALL-CAPS word(s), 0 exclamation mark(s) across 139 words (density 0.7 per 100 words).",
+          "findings": []
+        },
+        {
+          "category": "Clarity and Readability",
+          "score": 4,
+          "max_score": 5,
+          "rationale": "This document is a visual one-sheet/infographic, not continuous prose \u2014 sentence-level readability metrics don't apply cleanly, so no automated score below 4 is asserted here. Review labels and captions manually for clarity instead.",
+          "findings": []
+        },
+        {
+          "category": "Formatting and Structure",
+          "score": 4,
+          "max_score": 5,
+          "rationale": "Visual one-sheet layout \u2014 structure is carried by graphic design (columns, callout boxes) rather than headings, so heading-based checks don't apply. Not automatically scored below 4.",
+          "findings": []
+        },
+        {
+          "category": "Data and Evidence Usage",
+          "score": 4,
+          "max_score": 5,
+          "rationale": "No quantitative claims found in this document \u2014 this category is not strongly applicable to purely narrative content.",
+          "findings": []
+        },
+        {
+          "category": "Compliance With Style Guide",
+          "score": 5,
+          "max_score": 5,
+          "rationale": "0 banned-term hit(s), 0 mechanical style issue(s) across 150 words (density 0.0 per 100 words).",
+          "findings": []
+        }
+      ]
+    },
+    {
+      "name": "Employee Giving Program Blog Article.docx",
+      "path": "/mnt/c/workspaces/claude_code/finance/document_review/../../marketing/Employee Giving Program Blog Article.docx",
+      "format": "docx",
+      "word_count": 593,
+      "is_freeform_layout": false,
+      "total_score": 18,
+      "max_total_score": 25,
+      "compliance_level": "Good \u2013 minor improvements needed",
+      "categories": [
+        {
+          "category": "Tone and Professional Voice",
+          "score": 5,
+          "max_score": 5,
+          "rationale": "0 promotional/slang term(s), 0 contraction(s), 0 ALL-CAPS word(s), 1 exclamation mark(s) across 619 words (density 0.0 per 100 words).",
+          "findings": []
+        },
+        {
+          "category": "Clarity and Readability",
+          "score": 2,
+          "max_score": 5,
+          "rationale": "Flesch Reading Ease 38 (higher = easier); 9/26 sentences over 28 words; 4/26 passive-voice (15%).",
+          "findings": [
+            {
+              "location": "",
+              "snippet": "Visitors at our Red30 Tech campus in Denver, Colorado during our annual Give-a-Thon would liken the hubbub of\u2026",
+              "issue": "Long sentence (29 words).",
+              "suggestion": "Split into two sentences (currently 29 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Just three short years ago, we quietly initiated our Give-a-Thon program, which takes place over several days\u2026",
+              "issue": "Long sentence (31 words).",
+              "suggestion": "Split into two sentences (currently 31 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Anika was spurred into action to create TFT upon learning that many capable and hardworking teens were fallin\u2026",
+              "issue": "Long sentence (30 words).",
+              "suggestion": "Split into two sentences (currently 30 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "What started as a mission to help US-based students quickly expanded to countries throughout the world, and T\u2026",
+              "issue": "Long sentence (31 words).",
+              "suggestion": "Split into two sentences (currently 31 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Red30 Tech engineers and employees from many disciplines, along with charity members and volunteers, have col\u2026",
+              "issue": "Long sentence (29 words).",
+              "suggestion": "Split into two sentences (currently 29 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Last year\u2019s hack day culminated in a mobile app that allows volunteers and donors to connect all their charit\u2026",
+              "issue": "Long sentence (37 words).",
+              "suggestion": "Split into two sentences (currently 37 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "Participating nonprofits have confirmed that there\u2019s a higher commitment rate for volunteers signed on throug\u2026",
+              "issue": "Long sentence (33 words).",
+              "suggestion": "Split into two sentences (currently 33 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "As Darrel says, \u201cNot only am I blessed with work that\u2019s important and interesting, but I\u2019m also encouraged to\u2026",
+              "issue": "Long sentence (34 words).",
+              "suggestion": "Split into two sentences (currently 34 words; aim for under 25)."
+            },
+            {
+              "location": "",
+              "snippet": "The charities are selected based on our company mission to \u201cbring technology to the world,\u201d and all have stro\u2026",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "Anika was spurred into action to create TFT upon learning that many capable and hardworking teens were fallin\u2026",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "Red30 employees like Darrel Jackson are heartened that they can do so much good for others in partnership wit\u2026",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "Information provided about the products or services is also fictitious and should not be construed as represe\u2026",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            }
+          ]
+        },
+        {
+          "category": "Formatting and Structure",
+          "score": 4,
+          "max_score": 5,
+          "rationale": "0 heading(s), 0 list item(s) across 8 paragraph(s); 0 very long paragraph(s); 1 structural issue(s) flagged.",
+          "findings": [
+            {
+              "location": "whole document",
+              "snippet": "",
+              "issue": "No headings found in a 593-word document.",
+              "suggestion": "Break this into labeled sections so readers can scan it."
+            }
+          ]
+        },
+        {
+          "category": "Data and Evidence Usage",
+          "score": 2,
+          "max_score": 5,
+          "rationale": "2/7 numeric claims have nearby context (29%).",
+          "findings": [
+            {
+              "location": "",
+              "snippet": "gram has built to a deafening roar and has raised $1.5 million. And that\u2019s just a small component of the",
+              "issue": "Figure '$1.5' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "ing program, Red30Cares, which has generated over $350 million for charities since its evolution in 2010",
+              "issue": "Figure '$350' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "$350 million for charities since its evolution in 2010. During the Give-a-Thon, our employees, under th",
+              "issue": "Figure '2010' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "world, and TFT has, to date, donated computers to 35 million children on all seven continents. Past G",
+              "issue": "Figure '35' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "rticipating Red30 employee. This is on top of the $5,000 annual matching contributions that Red30 contribu",
+              "issue": "Figure '$5,000' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            }
+          ]
+        },
+        {
+          "category": "Compliance With Style Guide",
+          "score": 5,
+          "max_score": 5,
+          "rationale": "0 banned-term hit(s), 1 mechanical style issue(s) across 593 words (density 0.2 per 100 words).",
+          "findings": [
+            {
+              "location": "whole document",
+              "snippet": "",
+              "issue": "1 instance(s) of double spaces.",
+              "suggestion": "Run a find-and-replace for double spaces."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Executive Summary.docx",
+      "path": "/mnt/c/workspaces/claude_code/finance/document_review/../../marketing/Executive Summary.docx",
+      "format": "docx",
+      "word_count": 536,
+      "is_freeform_layout": false,
+      "total_score": 19,
+      "max_total_score": 25,
+      "compliance_level": "Good \u2013 minor improvements needed",
+      "categories": [
+        {
+          "category": "Tone and Professional Voice",
+          "score": 5,
+          "max_score": 5,
+          "rationale": "0 promotional/slang term(s), 1 contraction(s), 1 ALL-CAPS word(s), 0 exclamation mark(s) across 498 words (density 0.4 per 100 words).",
+          "findings": []
+        },
+        {
+          "category": "Clarity and Readability",
+          "score": 3,
+          "max_score": 5,
+          "rationale": "Flesch Reading Ease 42 (higher = easier); 0/125 sentences over 28 words; 2/125 passive-voice (2%).",
+          "findings": [
+            {
+              "location": "",
+              "snippet": "Operating expenses are budgeted at $590.4M, representing approximately 57% of projected revenue.",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            },
+            {
+              "location": "",
+              "snippet": "Geographic Concentration: Sales are concentrated in the eastern United States, with opportunities for expansi\u2026",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            }
+          ]
+        },
+        {
+          "category": "Formatting and Structure",
+          "score": 5,
+          "max_score": 5,
+          "rationale": "18 heading(s), 0 list item(s) across 111 paragraph(s); 0 very long paragraph(s); 0 structural issue(s) flagged.",
+          "findings": []
+        },
+        {
+          "category": "Data and Evidence Usage",
+          "score": 1,
+          "max_score": 5,
+          "rationale": "20/106 numeric claims have nearby context (19%).",
+          "findings": [
+            {
+              "location": "",
+              "snippet": "cutive Summary Report Financial & Sales Analysis 2014-2019 Executive Overview Red30 Tech is a technol",
+              "issue": "Figure '2014' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "e Summary Report Financial & Sales Analysis 2014-2019 Executive Overview Red30 Tech is a technology c",
+              "issue": "Figure '2019' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "ional metrics. Key Financial Highlights Metric 2015 2016 2017 2018 Gross Revenue $917.9M $952.3",
+              "issue": "Figure '2015' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "metrics. Key Financial Highlights Metric 2015 2016 2017 2018 Gross Revenue $917.9M $952.3M $98",
+              "issue": "Figure '2016' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "s. Key Financial Highlights Metric 2015 2016 2017 2018 Gross Revenue $917.9M $952.3M $985.7M",
+              "issue": "Figure '2017' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "y Financial Highlights Metric 2015 2016 2017 2018 Gross Revenue $917.9M $952.3M $985.7M $1,013",
+              "issue": "Figure '2018' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "s Metric 2015 2016 2017 2018 Gross Revenue $917.9M $952.3M $985.7M $1,013.1M Net Income $25.",
+              "issue": "Figure '$917' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "2015 2016 2017 2018 Gross Revenue $917.9M $952.3M $985.7M $1,013.1M Net Income $25.4M $31.0",
+              "issue": "Figure '$952' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "016 2017 2018 Gross Revenue $917.9M $952.3M $985.7M $1,013.1M Net Income $25.4M $31.0M $45.1M",
+              "issue": "Figure '$985' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "2018 Gross Revenue $917.9M $952.3M $985.7M $1,013.1M Net Income $25.4M $31.0M $45.1M $48.6M T",
+              "issue": "Figure '$1,013' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            }
+          ]
+        },
+        {
+          "category": "Compliance With Style Guide",
+          "score": 5,
+          "max_score": 5,
+          "rationale": "0 banned-term hit(s), 0 mechanical style issue(s) across 536 words (density 0.0 per 100 words).",
+          "findings": []
+        }
+      ]
+    },
+    {
+      "name": "Master Presentation.pptx",
+      "path": "/mnt/c/workspaces/claude_code/finance/document_review/../../marketing/Master Presentation.pptx",
+      "format": "pptx",
+      "word_count": 227,
+      "is_freeform_layout": false,
+      "total_score": 18,
+      "max_total_score": 25,
+      "compliance_level": "Good \u2013 minor improvements needed",
+      "categories": [
+        {
+          "category": "Tone and Professional Voice",
+          "score": 4,
+          "max_score": 5,
+          "rationale": "0 promotional/slang term(s), 0 contraction(s), 2 ALL-CAPS word(s), 0 exclamation mark(s) across 221 words (density 0.9 per 100 words).",
+          "findings": []
+        },
+        {
+          "category": "Clarity and Readability",
+          "score": 3,
+          "max_score": 5,
+          "rationale": "Flesch Reading Ease 49 (higher = easier); 0/36 sentences over 28 words; 1/36 passive-voice (3%).",
+          "findings": [
+            {
+              "location": "",
+              "snippet": "More than 12 Million VR headsets will be sold in 2017",
+              "issue": "Passive voice.",
+              "suggestion": "Rewrite in active voice \u2014 name who or what performs the action."
+            }
+          ]
+        },
+        {
+          "category": "Formatting and Structure",
+          "score": 5,
+          "max_score": 5,
+          "rationale": "9 heading(s), 6 list item(s) across 36 paragraph(s); 0 very long paragraph(s); 0 structural issue(s) flagged.",
+          "findings": []
+        },
+        {
+          "category": "Data and Evidence Usage",
+          "score": 2,
+          "max_score": 5,
+          "rationale": "6/19 numeric claims have nearby context (32%).",
+          "findings": [
+            {
+              "location": "",
+              "snippet": "g E-Commerce Online sales account for more than 50% of sales in most manufacturing areas Expected to",
+              "issue": "Figure '50%' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "anufacturing areas Expected to grow by more than 20% by 2021 Greatest opportunity is in software and",
+              "issue": "Figure '20%' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "uring areas Expected to grow by more than 20% by 2021 Greatest opportunity is in software and cloud se",
+              "issue": "Figure '2021' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "es Expect 3D printing to gain momentum over next 5 years Impact on several industries including pri",
+              "issue": "Figure '5' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "rowth opportunity for us R&D Project Updates DX-145 Drone (previously R-145) scheduled to release in",
+              "issue": "Figure '145' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "R&D Project Updates DX-145 Drone (previously R-145) scheduled to release in Q1 RTE-QFN20 delayed du",
+              "issue": "Figure '145' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "QFN20 delayed due to increased materials demand \u2013 2018 Q2 release Rechargeable Battery Comparison Sale",
+              "issue": "Figure '2018' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "Q4 Sales Virtual Reality Engagement and Trends 81% of people who\u2019ve tried virtual reality would reco",
+              "issue": "Figure '81%' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "ty would recommend it to their friends More than 12 Million VR headsets will be sold in 2017 74% of",
+              "issue": "Figure '12' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            },
+            {
+              "location": "",
+              "snippet": "More than 12 Million VR headsets will be sold in 2017 74% of consumers show interest in using VR for t",
+              "issue": "Figure '2017' has no visible source, comparison, or unit context nearby.",
+              "suggestion": "Add a comparison, time frame, or source so the figure is interpretable on its own."
+            }
+          ]
+        },
+        {
+          "category": "Compliance With Style Guide",
+          "score": 4,
+          "max_score": 5,
+          "rationale": "0 banned-term hit(s), 1 mechanical style issue(s) across 227 words (density 0.4 per 100 words).",
+          "findings": [
+            {
+              "location": "whole document",
+              "snippet": "",
+              "issue": "1 instance(s) of double spaces.",
+              "suggestion": "Run a find-and-replace for double spaces."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
